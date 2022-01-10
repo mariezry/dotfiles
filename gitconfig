@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mariezorayan@live.fr
+	name = Marie Zorayan
